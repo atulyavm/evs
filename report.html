@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Report Pollution</title>
+    <style>
+        /* General Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            font-family: 'Roboto', Arial, sans-serif;
+            height: 100%;
+            background: linear-gradient(120deg, #a1c4fd, #c2e9fb);
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(90deg, #0077b6, #00b4d8);
+            color: white;
+            width: 100%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        main {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+        }
+
+        form {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            width: 100%;
+            max-width: 500px;
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+            border: 1px solid #ddd;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        form label {
+            font-size: 1.1em;
+            color: #333;
+            font-weight: bold;
+        }
+
+        form input, form textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 1em;
+            transition: border-color 0.3s ease;
+        }
+
+        form input:focus, form textarea:focus {
+            border-color: #0077b6;
+            outline: none;
+        }
+
+        form button {
+            background: linear-gradient(90deg, #0077b6, #00b4d8);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            font-size: 1.2em;
+            cursor: pointer;
+            padding: 12px;
+            transition: background 0.3s ease, transform 0.2s ease;
+        }
+
+        form button:hover {
+            background: linear-gradient(90deg, #005f87, #0077b6);
+            transform: scale(1.05);
+        }
+
+        footer {
+            text-align: center;
+            padding: 13px;
+            background: linear-gradient(90deg, #0077b6, #00b4d8);
+            color: white;
+            width: 100%;
+            box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 1em;
+        }
+
+        /* Popup and Loading Screen */
+        .loading-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+        }
+
+        .loading-overlay .spinner {
+            border: 8px solid #f3f3f3;
+            border-top: 8px solid #5894de;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+        }
+
+       
+        .popup-content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+
+        .popup-content button {
+            background: #2dd5c7;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Submit Pollution Report</h1>
+    </header>
+
+    <main>
+        <form id="pollution-form">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+            <label for="pollution-details">Details of Pollution</label>
+            <textarea id="pollution-details" name="details" rows="4" placeholder="Describe the pollution issue..." required></textarea>
+
+            <label for="pollution-photo">Upload Photo/Video</label>
+            <input type="file" id="pollution-photo" name="photo" accept="image/*,video/*" required>
+
+            <button type="submit">Submit Report</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; Aqua Squad (Design Thinking)</p>
+    </footer>
+
+    <div class="loading-overlay" id="loading-overlay">
+        <div class="spinner"></div>
+    </div>
+
+    <div class="popup-container" id="popup-container">
+        <div class="popup-content">
+            <h2>Success!</h2>
+            <p>Your pollution report has been submitted successfully.</p>
+            <button id="close-popup">Go to Main Page</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('pollution-form').addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            document.getElementById('loading-overlay').style.display = 'flex';
+
+            const formData = new FormData(this);
+            const xhr = new XMLHttpRequest();
+
+            xhr.open('POST', 'submit_report.php', true);
+            xhr.onload = function () {
+                document.getElementById('loading-overlay').style.display = 'none';
+                if (xhr.status === 200) {
+                    document.getElementById('popup-container').style.display = 'flex';
+                } else {
+                    alert('Submission failed. Please try again.');
+                }
+            };
+            xhr.send(formData);
+        });
+
+        document.getElementById('close-popup').addEventListener('click', function () {
+            window.location.href = 'index.php';
+        });
+    </script>
+</body>
+</html>

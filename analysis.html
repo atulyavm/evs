@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyze Water Quality | AquaSense</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="logo">
+            <i class="fas fa-droplet"></i> AquaSense
+        </a>
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="about_us.html">About</a>
+        </div>
+    </nav>
+
+    <header class="hero" style="padding-bottom: 8rem;">
+        <h1>Water Analysis</h1>
+        <p>Enter the water parameters below to receive an AI-powered assessment of safety and treatment.</p>
+    </header>
+
+    <div class="container">
+        <div class="form-container">
+            <form id="analysis-form">
+                <div class="form-group">
+                    <label for="ph"><i class="fas fa-eye-dropper"></i> pH Value (0 - 14.0)</label>
+                    <input type="number" id="ph" name="ph" step="0.1" min="0" max="14" placeholder="e.g., 7.0" required>
+                </div>
+
+                <div class="form-group">
+                    <label><i class="fas fa-flask"></i> Detectable Chemicals (Select all that apply)</label>
+                    <div class="checkbox-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; background: #f8fafc; padding: 15px; border-radius: 12px; border: 1px solid #e2e8f0;">
+                        <label style="font-weight: 500; display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                            <input type="checkbox" name="chemical" value="Lead"> Lead (Pb)
+                        </label>
+                        <label style="font-weight: 500; display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                            <input type="checkbox" name="chemical" value="Mercury"> Mercury (Hg)
+                        </label>
+                        <label style="font-weight: 500; display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                            <input type="checkbox" name="chemical" value="Arsenic"> Arsenic (As)
+                        </label>
+                        <label style="font-weight: 500; display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                            <input type="checkbox" name="chemical" value="Fluoride"> Fluoride (F)
+                        </label>
+                        <label style="font-weight: 500; display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                            <input type="checkbox" name="chemical" value="Pesticides"> Pesticides
+                        </label>
+                        <label style="font-weight: 500; display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                            <input type="checkbox" name="chemical" value="Bacteria"> Bacteria
+                        </label>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-action" style="width: 100%; justify-content: center; margin-top: 1rem;">
+                    <i class="fas fa-wand-magic-sparkles"></i> Run AI Analysis
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <div class="loading-overlay" id="loading-overlay">
+        <div class="spinner"></div>
+    </div>
+
+    <div class="popup-container" id="popup-container">
+        <div class="popup-content">
+            <div style="font-size: 3rem; color: var(--accent); margin-bottom: 1rem;">
+                <i class="fas fa-circle-check"></i>
+            </div>
+            <h2>Analysis Complete</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">Based on the parameters provided, here is our assessment:</p>
+            
+            <div class="result-card">
+                <strong>Recommended Treatment</strong>
+                <span id="treatment-result" style="font-size: 1.1rem; font-weight: 600;">-</span>
+            </div>
+            
+            <div class="result-card" style="border-left-color: #f87171;">
+                <strong>Health Risks / Diseases</strong>
+                <span id="disease-result" style="font-size: 1.1rem; font-weight: 600;">-</span>
+            </div>
+
+            <button id="close-popup" class="btn btn-primary" style="width: 100%; justify-content: center;">
+                Start New Test
+            </button>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 AquaSense - EVS Project | Design Thinking</p>
+    </footer>
+
+    <script>
+        document.getElementById('analysis-form').addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            document.getElementById('loading-overlay').style.display = 'flex';
+
+            const ph = document.getElementById('ph').value;
+            const chemicals = Array.from(document.querySelectorAll('input[name="chemical"]:checked')).map(cb => cb.value);
+
+            setTimeout(() => {
+                fetch('http://127.0.0.1:5000/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ ph: ph, chemicals: chemicals }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('loading-overlay').style.display = 'none';
+                    if (data.success) {
+                        document.getElementById('treatment-result').innerText = data.treatment;
+                        document.getElementById('disease-result').innerText = data.disease;
+                        document.getElementById('popup-container').style.display = 'flex';
+                    } else {
+                        alert('Analysis failed: ' + data.error);
+                    }
+                })
+                .catch((error) => {
+                    document.getElementById('loading-overlay').style.display = 'none';
+                    console.error('Error:', error);
+                    alert('Server connection failed. Make sure the backend is running.');
+                });
+            }, 1200);
+        });
+
+        document.getElementById('close-popup').addEventListener('click', function () {
+            document.getElementById('popup-container').style.display = 'none';
+            document.getElementById('analysis-form').reset();
+        });
+
+        document.getElementById('popup-container').addEventListener('click', function(e) {
+            if (e.target === this) {
+                this.style.display = 'none';
+                document.getElementById('analysis-form').reset();
+            }
+        });
+    </script>
+    <script src="particles.js"></script>
+</body>
+</html>

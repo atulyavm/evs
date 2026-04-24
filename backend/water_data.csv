@@ -1,0 +1,1501 @@
+ph,treatment,disease,Lead,Mercury,Arsenic,Fluoride,Pesticides,Bacteria
+5.49,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+5.5,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+4.9,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.04,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+5.26,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+4.76,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.82,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.58,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.45,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+5.65,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+8.4,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+9.65,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.98,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+9.29,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.92,No treatment needed,Healthy,0,0,0,0,0,0
+5.32,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+7.48,No treatment needed,Healthy,0,0,0,0,0,0
+4.61,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+8.33,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+4.74,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+5.62,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+4.33,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+9.36,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.42,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+6.01,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+4.76,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.95,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.58,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.78,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+7.15,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+5.45,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+7.88,No treatment needed,Healthy,0,0,0,0,0,0
+5.69,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.35,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.32,No treatment needed,Healthy,0,0,0,0,0,0
+7.57,No treatment needed,Healthy,0,0,0,0,0,0
+7.93,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,0,0
+9.16,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+4.03,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.35,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+5.16,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+6.13,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.39,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.99,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.37,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.9,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+9.74,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+9.58,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+7.05,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+4.04,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.05,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.02,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.13,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.96,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+5.92,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.98,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.63,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+8.14,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+9.11,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.24,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,1,0
+4.14,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+6.3,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+5.45,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+4.88,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+8.28,No treatment needed,Healthy,0,0,0,0,0,0
+8.75,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.09,No treatment needed,Healthy,0,0,0,0,0,0
+6.17,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.54,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.71,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.55,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.86,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+7.37,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+5.0,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+4.39,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+8.23,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+4.58,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.9,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.48,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.49,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+6.32,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+7.16,No treatment needed,Healthy,0,0,0,0,0,0
+4.94,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.51,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.36,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+9.89,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+5.7,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+9.18,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+9.0,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.33,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+6.65,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+7.74,No treatment needed,Healthy,0,0,0,0,0,0
+5.88,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+8.35,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.68,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+7.91,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+7.25,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+6.55,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+9.5,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+7.97,No treatment needed,Healthy,0,0,0,0,0,0
+4.1,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+7.5,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+7.51,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+7.25,No treatment needed,Healthy,0,0,0,0,0,0
+7.91,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.89,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.37,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+7.17,No treatment needed,Healthy,0,0,0,0,0,0
+4.41,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+7.49,No treatment needed,Healthy,0,0,0,0,0,0
+5.62,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.39,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+7.53,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+9.91,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+6.45,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.02,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,0,0,0,0
+4.76,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+7.74,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.98,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.1,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+5.02,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+9.56,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+8.14,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.05,No treatment needed,Healthy,0,0,0,0,0,0
+4.35,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.82,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+4.98,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+9.15,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+8.74,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.76,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.99,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+9.19,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+4.75,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+8.86,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.19,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+5.94,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.83,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+6.07,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+8.05,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+8.46,No treatment needed,Healthy,0,0,0,0,0,0
+4.15,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.97,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+6.3,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+4.69,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+9.76,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+6.2,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.49,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+4.5,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+4.92,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.38,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.69,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+9.51,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,1,0,1
+7.22,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+9.47,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.19,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+9.83,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.93,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+5.59,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+9.75,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+9.55,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.57,No treatment needed,Healthy,0,0,0,0,0,0
+8.71,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.51,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.39,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+8.36,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.78,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.47,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.25,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.73,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+8.53,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+9.78,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+5.82,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.29,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+4.91,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.28,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.05,No treatment needed,Healthy,0,0,0,0,0,0
+7.93,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+9.72,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.27,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.76,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.8,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.33,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+6.67,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.62,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.29,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+8.81,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.13,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.1,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.32,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+5.8,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.07,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.48,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+4.99,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+9.72,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+8.69,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.24,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,0,0
+6.5,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+7.19,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+8.76,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+6.44,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.88,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.68,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.63,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,1,1,1,0,0
+6.94,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+4.07,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.29,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.94,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+8.89,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+7.37,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+6.28,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+7.58,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.9,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+5.52,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.98,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+6.11,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.16,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+8.92,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+8.1,No treatment needed,Healthy,0,0,0,0,0,0
+8.9,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+9.73,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.86,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.96,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+9.54,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.11,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.31,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+8.73,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+7.92,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+5.6,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+7.4,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+5.09,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+9.78,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.12,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.2,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.63,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+5.15,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+6.46,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,1,0,1
+8.42,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.0,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+6.95,No treatment needed,Healthy,0,0,0,0,0,0
+9.43,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+6.65,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+5.76,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+8.44,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+4.37,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.26,No treatment needed,Healthy,0,0,0,0,0,0
+5.57,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+9.41,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+8.75,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+7.82,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+7.05,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+5.34,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+5.86,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.81,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+4.15,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+5.15,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.65,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.9,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+9.71,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,0,0,0,0
+7.63,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+5.89,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+5.41,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+6.98,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+5.15,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+9.3,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,1
+5.87,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+6.91,No treatment needed,Healthy,0,0,0,0,0,0
+7.62,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+6.35,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.57,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+8.35,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.65,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+6.61,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+9.35,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+4.25,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.62,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+8.89,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.87,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+4.77,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+4.03,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.28,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+6.98,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.28,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+6.72,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+5.86,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+7.83,No treatment needed,Healthy,0,0,0,0,0,0
+7.13,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+4.09,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.38,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+6.13,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.74,No treatment needed,Healthy,0,0,0,0,0,0
+8.21,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+9.64,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+4.59,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+9.2,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+4.25,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+6.1,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.98,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+6.02,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.63,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+4.15,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.84,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+8.28,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+9.89,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.6,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+7.06,No treatment needed,Healthy,0,0,0,0,0,0
+6.89,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.14,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.0,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+5.15,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+4.55,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+4.01,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+8.13,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+6.18,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+8.23,No treatment needed,Healthy,0,0,0,0,0,0
+7.91,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.04,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+4.56,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,1,1,0,0,0
+7.27,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.09,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.6,No treatment needed,Healthy,0,0,0,0,0,0
+9.3,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+8.51,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+8.26,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+4.3,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.86,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+9.51,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+6.19,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+8.55,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.49,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+5.34,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.29,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+6.19,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.08,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+6.14,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.29,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.08,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+4.0,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.73,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+9.36,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.29,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.05,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.38,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+6.27,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+4.13,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.46,No treatment needed,Healthy,0,0,0,0,0,0
+6.27,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.69,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+5.46,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.42,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+4.37,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.42,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+8.64,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+9.23,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.01,No treatment needed,Healthy,0,0,0,0,0,0
+9.23,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.18,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+9.38,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.06,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.83,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+4.34,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.61,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.25,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+8.16,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+7.91,No treatment needed,Healthy,0,0,0,0,0,0
+5.96,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+7.13,No treatment needed,Healthy,0,0,0,0,0,0
+7.02,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.03,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+5.14,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,1,0,0,0,0
+4.58,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.19,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.76,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.31,No treatment needed,Healthy,0,0,0,0,0,0
+7.27,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.47,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.09,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.26,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+7.34,No treatment needed,Healthy,0,0,0,0,0,0
+9.4,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.42,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+7.58,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+7.79,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+9.47,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+5.88,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+6.55,No treatment needed,Healthy,0,0,0,0,0,0
+9.96,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.41,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+4.76,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.57,No treatment needed,Healthy,0,0,0,0,0,0
+6.93,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+5.37,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.45,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.83,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+5.16,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+5.22,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.18,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.08,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+7.3,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.57,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.63,No treatment needed,Healthy,0,0,0,0,0,0
+5.29,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+5.3,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+9.38,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+6.81,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+6.12,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.24,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+7.01,No treatment needed,Healthy,0,0,0,0,0,0
+7.58,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+4.81,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.68,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.98,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.31,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+4.77,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+8.39,No treatment needed,Healthy,0,0,0,0,0,0
+9.76,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+10.0,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.88,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+6.19,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+6.23,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.33,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.38,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+4.39,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.94,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+6.8,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+5.5,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.72,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.5,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+9.95,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.91,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.25,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.19,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+6.03,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+8.21,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+4.19,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.06,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.51,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+4.49,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+5.5,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+6.1,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+9.04,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+6.77,No treatment needed,Healthy,0,0,0,0,0,0
+9.18,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.31,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+9.38,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+6.83,No treatment needed,Healthy,0,0,0,0,0,0
+5.15,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.3,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.16,No treatment needed,Healthy,0,0,0,0,0,0
+6.38,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.96,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,1,0,0
+4.58,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+6.66,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,0,0,0,0
+9.38,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.71,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+7.99,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.42,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.01,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+8.99,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+5.81,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.73,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+8.66,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+9.29,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.55,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+5.26,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+6.07,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.73,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.76,No treatment needed,Healthy,0,0,0,0,0,0
+5.29,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+8.55,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+9.57,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.51,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+5.44,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.34,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.04,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+7.68,No treatment needed,Healthy,0,0,0,0,0,0
+4.12,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+4.03,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.5,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,1,1,0
+4.6,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+5.46,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.21,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.53,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.77,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+7.91,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+7.66,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+8.34,No treatment needed,Healthy,0,0,0,0,0,0
+7.06,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+6.56,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+4.13,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+9.4,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.76,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+8.37,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,1,0,1,0
+6.68,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+8.61,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.97,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+8.01,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+7.65,No treatment needed,Healthy,0,0,0,0,0,0
+9.38,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,1,1,0
+4.1,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+7.72,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+7.6,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+4.46,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.97,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.73,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+5.4,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+6.91,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+7.29,No treatment needed,Healthy,0,0,0,0,0,0
+4.47,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.54,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+7.71,No treatment needed,Healthy,0,0,0,0,0,0
+5.64,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.7,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.93,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+4.86,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.84,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.52,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+9.53,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+4.22,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+6.83,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+8.26,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+8.97,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+6.81,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+8.38,No treatment needed,Healthy,0,0,0,0,0,0
+6.23,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+4.94,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.13,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.53,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+7.4,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+6.27,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.0,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+4.23,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+8.37,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.21,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+6.67,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+4.9,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.69,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+6.1,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+9.57,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+6.97,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+4.57,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+6.27,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.12,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.16,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+5.11,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.56,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+5.83,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,1,0,0,1,0
+5.68,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.49,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+6.63,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+6.75,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+4.53,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.36,No treatment needed,Healthy,0,0,0,0,0,0
+6.76,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.39,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,1,0
+6.19,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+8.25,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+6.66,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+9.02,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.05,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+8.76,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+9.01,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+9.15,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.7,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+9.24,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+6.97,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+5.26,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+4.82,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+5.05,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.72,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+5.6,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+7.39,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.23,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+6.69,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.65,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+7.98,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.62,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+8.36,No treatment needed,Healthy,0,0,0,0,0,0
+6.46,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.44,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+4.68,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.29,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,0,1
+6.86,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+6.4,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.87,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,1,0,0,0,1
+8.46,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+8.32,No treatment needed,Healthy,0,0,0,0,0,0
+9.93,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.26,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+7.81,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+5.98,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+4.08,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+9.47,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.34,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.29,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+6.85,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+5.68,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+5.64,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.34,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.75,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.57,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.32,No treatment needed,Healthy,0,0,0,0,0,0
+4.15,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.82,No treatment needed,Healthy,0,0,0,0,0,0
+5.85,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+6.82,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+6.23,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.94,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.28,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.93,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.82,No treatment needed,Healthy,0,0,0,0,0,0
+4.55,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+5.73,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+6.98,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+9.34,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+6.43,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+7.71,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+9.63,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,1,0,1,0,1
+5.69,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.13,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.73,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,1,1
+7.75,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+7.23,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+7.3,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+7.97,No treatment needed,Healthy,0,0,0,0,0,0
+9.45,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.29,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+9.02,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+6.93,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+9.86,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.37,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+5.4,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.94,No treatment needed,Healthy,0,0,0,0,0,0
+9.96,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+5.69,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+5.88,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+4.87,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,0,0
+8.77,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+5.74,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.07,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+4.24,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.1,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.52,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.83,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.84,No treatment needed,Healthy,0,0,0,0,0,0
+4.59,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.69,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+5.27,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.18,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.85,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.33,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+4.11,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.81,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.61,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+4.01,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.01,No treatment needed,Healthy,0,0,0,0,0,0
+9.23,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.19,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+5.33,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+6.54,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+7.82,No treatment needed,Healthy,0,0,0,0,0,0
+8.85,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+5.84,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+7.01,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.97,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.78,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+6.44,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.52,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+5.6,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+6.94,No treatment needed,Healthy,0,0,0,0,0,0
+8.86,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+6.23,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.37,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+7.07,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+7.61,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.55,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.96,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+7.54,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.86,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+8.77,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.58,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.71,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+9.73,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+7.86,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+8.87,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.43,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+4.24,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+9.17,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+4.67,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+5.65,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.03,No treatment needed,Healthy,0,0,0,0,0,0
+9.92,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.09,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+6.28,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+4.3,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+5.26,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+5.35,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.96,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+5.04,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+9.31,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+5.12,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.43,No treatment needed,Healthy,0,0,0,0,0,0
+9.48,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+7.68,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.89,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+8.25,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.49,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.13,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.93,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.14,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+5.66,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.33,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+5.78,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+4.36,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+9.58,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.25,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.69,No treatment needed,Healthy,0,0,0,0,0,0
+9.18,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,1,0,1,0,0
+7.28,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+6.81,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+8.45,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.62,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+8.39,No treatment needed,Healthy,0,0,0,0,0,0
+8.26,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.21,No treatment needed,Healthy,0,0,0,0,0,0
+4.13,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+6.95,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.65,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.58,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.1,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+5.88,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+4.31,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+5.59,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.65,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+8.31,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+9.2,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,1,0,0,1
+8.12,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+4.96,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+5.8,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.33,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,1,0
+8.23,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,1,0
+5.46,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+6.86,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+8.65,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+8.34,No treatment needed,Healthy,0,0,0,0,0,0
+6.15,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.47,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+9.23,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+7.06,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+4.42,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+7.59,No treatment needed,Healthy,0,0,0,0,0,0
+5.16,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.69,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.86,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+4.05,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+6.98,No treatment needed,Healthy,0,0,0,0,0,0
+4.04,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+4.9,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.74,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.34,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.04,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+7.8,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.08,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+5.08,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+6.62,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+4.0,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.08,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.54,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.74,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+7.44,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+9.54,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.95,No treatment needed,Healthy,0,0,0,0,0,0
+7.76,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+8.92,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,1,1,0,1,0
+4.4,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+5.84,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.58,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+6.28,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.25,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.93,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.59,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+5.24,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.84,No treatment needed,Healthy,0,0,0,0,0,0
+8.74,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+6.97,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+9.62,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.49,No treatment needed,Healthy,0,0,0,0,0,0
+5.92,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,0,1
+4.6,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+6.36,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+7.35,No treatment needed,Healthy,0,0,0,0,0,0
+7.5,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+7.55,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+8.06,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+6.24,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.06,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,1,1
+5.49,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.38,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+9.02,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+9.44,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.87,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+5.35,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.62,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+9.5,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.61,No treatment needed,Healthy,0,0,0,0,0,0
+5.74,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+7.0,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+4.86,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.61,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+9.06,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+8.68,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+8.57,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.53,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.4,No treatment needed,Healthy,0,0,0,0,0,0
+9.85,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+4.92,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.48,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.66,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,1,0,0,0,0
+8.16,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.7,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+8.07,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,0,0
+8.04,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.83,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+8.21,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.47,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.91,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.69,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.94,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+5.23,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+6.72,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+7.87,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+7.51,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.1,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.5,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,1,1
+7.19,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.73,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,0,0,1,0
+7.68,No treatment needed,Healthy,0,0,0,0,0,0
+6.3,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+9.47,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+9.36,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+7.56,No treatment needed,Healthy,0,0,0,0,0,0
+9.41,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.69,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+6.86,No treatment needed,Healthy,0,0,0,0,0,0
+9.27,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.26,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+4.76,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+4.54,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+5.99,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+4.97,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+5.8,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.03,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+5.42,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.23,No treatment needed,Healthy,0,0,0,0,0,0
+5.9,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+5.19,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.54,No treatment needed,Healthy,0,0,0,0,0,0
+4.39,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.51,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+5.03,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+4.2,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.57,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.6,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+6.42,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+8.63,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.06,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+9.92,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+4.69,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+8.53,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+8.16,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+9.84,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.56,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+4.96,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+6.28,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.21,No treatment needed,Healthy,0,0,0,0,0,0
+6.31,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.17,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+7.85,No treatment needed,Healthy,0,0,0,0,0,0
+5.69,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+7.34,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.36,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.86,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+7.23,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+4.62,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+8.02,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.43,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+5.37,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.42,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.4,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+7.24,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+6.86,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+7.71,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.57,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.64,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.84,No treatment needed,Healthy,0,0,0,0,0,0
+6.05,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.82,No treatment needed,Healthy,0,0,0,0,0,0
+9.54,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+7.41,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+4.65,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.03,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+9.39,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+8.1,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,1,0
+4.36,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.2,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.03,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.89,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.89,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+7.23,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,0,1,1,0
+9.59,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.48,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+7.27,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,0,0,0,0
+4.22,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.51,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+7.29,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.82,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.49,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+6.4,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+5.08,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+6.21,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,1,1,0,0,0
+5.54,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+9.55,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.56,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.98,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+5.49,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.57,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.54,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+8.4,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+7.29,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+5.14,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+8.79,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+9.8,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.65,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+9.16,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+7.54,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+4.2,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+7.07,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.66,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.79,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+7.32,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.32,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,1,0
+6.68,No treatment needed,Healthy,0,0,0,0,0,0
+5.18,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.24,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+6.1,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+8.66,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+8.69,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+6.72,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.67,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.82,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.55,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.77,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.71,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+8.86,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+5.54,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+4.65,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.49,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.33,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+5.48,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.96,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+8.51,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.59,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+9.85,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+6.83,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+8.86,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.16,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.24,No treatment needed,Healthy,0,0,0,0,0,0
+9.0,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+7.21,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+9.37,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+5.86,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.06,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+4.82,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.11,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.42,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+5.45,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.66,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+4.83,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+7.28,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+6.99,No treatment needed,Healthy,0,0,0,0,0,0
+8.43,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+6.22,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.8,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+8.16,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+8.19,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+6.28,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.34,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.76,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.32,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+6.42,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+9.38,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+4.29,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+9.98,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.84,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.47,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.8,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.81,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+4.8,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.75,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+9.38,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+4.63,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+8.81,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+9.17,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+8.58,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.05,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+8.08,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+7.56,No treatment needed,Healthy,0,0,0,0,0,0
+7.96,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.49,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+4.79,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+9.35,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.07,No treatment needed,Healthy,0,0,0,0,0,0
+4.56,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+4.83,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+7.06,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+5.95,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+9.92,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.35,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+4.89,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.16,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+9.74,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+9.09,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.52,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.21,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.47,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+5.03,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.95,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+8.19,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+4.52,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+4.76,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+9.2,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.47,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+7.03,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+7.76,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+6.9,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+7.37,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+9.32,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+9.15,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+8.1,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+5.66,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.6,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.55,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+8.49,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.02,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+9.27,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.78,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+9.84,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.43,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+6.93,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+4.21,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.4,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+9.48,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.17,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+5.36,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.82,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.99,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+8.92,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.25,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.48,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+8.25,No treatment needed,Healthy,0,0,0,0,0,0
+7.81,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.28,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.81,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.49,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,1,0,0
+8.14,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.03,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.08,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+7.89,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+9.12,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.85,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+7.47,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+8.45,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.41,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+7.98,No treatment needed,Healthy,0,0,0,0,0,0
+6.26,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+4.86,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.33,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+5.05,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.91,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+7.59,No treatment needed,Healthy,0,0,0,0,0,0
+6.05,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+4.18,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+4.37,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.86,No treatment needed,Healthy,0,0,0,0,0,0
+9.49,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.92,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+4.1,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+8.59,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.68,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+6.54,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,1,0,0,0
+9.48,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+5.04,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.28,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,1,0,0,0
+5.44,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+7.24,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+4.02,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+7.19,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+9.96,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+8.64,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+7.7,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+6.81,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+4.55,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+5.99,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+8.44,No treatment needed,Healthy,0,0,0,0,0,0
+9.48,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.07,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+5.51,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+7.58,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+5.81,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.7,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.32,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+5.83,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.35,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.26,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,1,1,0,0,1
+4.01,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+6.71,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+5.8,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+4.09,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.38,No treatment needed,Healthy,0,0,0,0,0,0
+9.13,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.89,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+8.38,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+7.51,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.57,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.68,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.39,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.13,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,1
+6.23,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.55,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+9.05,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.71,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+4.44,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+5.59,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.91,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+5.7,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.87,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+4.19,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+6.09,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+5.13,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+7.37,No treatment needed,Healthy,0,0,0,0,0,0
+7.02,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+9.79,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+9.19,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,1,0,1,1,0
+6.47,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+5.23,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.3,No treatment needed,Healthy,0,0,0,0,0,0
+6.78,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.03,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+6.21,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+6.6,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+6.84,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+7.49,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+9.46,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.59,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+6.02,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+5.27,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.57,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,1,0,0,0
+5.92,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+9.81,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.31,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.63,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.89,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+6.33,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+5.5,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.57,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.82,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.52,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.13,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.01,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.27,Activated Alumina + Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skeletal Fluorosis, Skin lesions, Cancer",0,1,1,1,0,0
+9.28,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.97,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+9.86,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.8,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.47,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+8.94,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+6.39,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.51,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.71,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.83,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+7.49,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+4.01,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.08,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+4.41,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.05,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+6.4,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.91,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.24,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.55,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+9.39,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.69,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.95,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+5.64,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+9.38,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+6.69,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+9.71,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.91,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+8.49,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+7.66,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+8.62,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+9.12,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.41,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+6.28,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+8.9,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+9.18,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+6.32,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.85,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.69,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+9.62,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+9.2,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.4,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+9.73,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+4.99,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.08,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+7.69,No treatment needed,Healthy,0,0,0,0,0,0
+7.77,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+6.78,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.03,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+5.26,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.71,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+5.32,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,0,1,1
+4.15,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.63,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+4.39,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.34,No treatment needed,Healthy,0,0,0,0,0,0
+5.86,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+5.65,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.77,No treatment needed,Healthy,0,0,0,0,0,0
+5.86,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+4.77,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.21,No treatment needed,Healthy,0,0,0,0,0,0
+5.67,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.54,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.8,Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance",0,1,0,0,1,0
+7.73,No treatment needed,Healthy,0,0,0,0,0,0
+8.05,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+7.67,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+8.91,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+5.09,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+9.61,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+7.24,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+4.47,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.2,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+9.24,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.45,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+5.28,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,1,0,1
+9.91,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.29,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+8.96,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+5.26,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.62,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.87,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+9.92,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+9.11,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+5.65,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+4.12,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.69,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.1,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+5.38,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+5.52,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.65,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+4.41,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+8.83,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.02,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+8.89,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+4.26,Activated Alumina + Granular Activated Carbon,"Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,0
+4.33,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.67,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.21,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+4.9,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.89,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+7.44,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+8.77,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+8.36,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+4.93,Granular Activated Carbon + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,1
+5.83,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+8.07,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+9.14,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.09,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.57,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+8.73,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+9.82,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.16,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,0,0
+7.87,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+9.45,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+9.92,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.45,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.62,Activated Alumina + Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,1,0
+8.79,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+9.72,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.57,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.27,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+5.07,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+7.99,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+7.74,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+8.72,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+8.05,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.22,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+7.46,No treatment needed,Healthy,0,0,0,0,0,0
+4.39,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.94,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+7.75,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+9.54,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.61,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.2,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+6.89,No treatment needed,Healthy,0,0,0,0,0,0
+7.67,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.02,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+9.35,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+6.11,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+7.74,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.25,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+7.23,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+7.49,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+4.63,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+9.73,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.79,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.4,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+5.38,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+6.76,No treatment needed,Healthy,0,0,0,0,0,0
+6.83,No treatment needed,Healthy,0,0,0,0,0,0
+9.8,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.48,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+7.82,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+8.97,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+5.53,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.14,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+5.41,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.56,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+8.36,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+6.37,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,1,1,0,0,1
+9.26,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.07,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.39,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+7.46,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+9.92,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.94,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+5.82,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.94,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.17,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,1,0,0
+9.4,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.03,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+8.08,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+4.54,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,1,1,0,1
+5.92,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+9.42,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+9.94,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+9.1,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.81,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.44,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+5.06,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.98,Activated Carbon Filter + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Nervous system damage",1,1,0,0,0,1
+4.31,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+4.94,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+4.91,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.94,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+9.5,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.62,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.87,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+7.66,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+5.0,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.7,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+6.63,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.18,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,0,0,0,0
+6.28,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+5.27,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+5.56,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.23,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+6.22,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.17,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+9.26,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+7.16,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.77,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.44,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+9.25,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+4.36,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+4.29,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+4.69,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+9.69,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+6.73,No treatment needed,Healthy,0,0,0,0,0,0
+6.35,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+4.63,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+4.71,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.92,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+9.3,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+5.53,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+9.94,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.21,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+4.47,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+6.6,Activated Alumina + Activated Carbon Filter,"Brain damage, Skeletal Fluorosis",0,1,0,1,0,0
+5.99,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+8.54,Activated Alumina + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skeletal Fluorosis",1,0,0,1,1,0
+5.59,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,0
+8.39,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.51,Activated Alumina + Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Skeletal Fluorosis",0,0,0,1,1,1
+4.74,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,1,0,1,0,0
+4.91,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.3,No treatment needed,Healthy,0,0,0,0,0,0
+4.13,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+7.94,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+8.99,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.38,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+5.18,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+9.29,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+4.15,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.04,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.74,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+6.29,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+8.52,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+8.57,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+4.31,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.24,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+4.2,Activated Alumina + Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skeletal Fluorosis",1,1,0,1,0,0
+9.52,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+6.9,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+6.97,Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skin lesions, Cancer",1,0,1,0,0,1
+6.24,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+7.64,No treatment needed,Healthy,0,0,0,0,0,0
+7.31,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+6.23,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+7.45,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+5.95,Granular Activated Carbon,Hormonal imbalance,0,0,0,0,1,0
+5.87,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.51,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+9.34,Activated Alumina + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis, Skin lesions, Cancer",1,0,1,1,0,0
+9.05,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+7.67,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+9.58,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.13,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.36,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+4.69,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.4,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+4.42,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.29,Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skin lesions, Cancer",0,0,1,0,0,1
+4.08,Reverse Osmosis / Ion Exchange,Nervous system damage,1,0,0,0,0,0
+8.92,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+9.25,Granular Activated Carbon + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance",0,0,0,0,1,1
+4.7,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+7.47,No treatment needed,Healthy,0,0,0,0,0,0
+9.56,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,1,0,0
+8.05,Granular Activated Carbon + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage, Skin lesions, Cancer",1,0,1,0,1,0
+5.94,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.75,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+8.5,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+7.46,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+6.89,No treatment needed,Healthy,0,0,0,0,0,0
+7.72,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+5.72,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+8.62,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+5.0,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+7.85,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+8.95,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,0,0,0,0,1,1
+6.03,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+9.0,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+7.44,Activated Alumina + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,1
+5.17,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.03,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+8.96,Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Hormonal imbalance, Nervous system damage",1,0,0,0,1,0
+4.07,Activated Carbon Filter + Granular Activated Carbon + Ion Exchange / Coagulation,"Brain damage, Hormonal imbalance, Skin lesions, Cancer",0,1,1,0,1,0
+9.62,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+8.44,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
+4.45,Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Nervous system damage",1,0,0,0,0,1
+9.81,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+9.05,Activated Carbon Filter + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skin lesions, Cancer",0,1,1,0,0,1
+8.1,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+4.28,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+9.86,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+9.68,Activated Alumina + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis",0,0,0,1,0,1
+6.48,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.77,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.91,No treatment needed,Healthy,0,0,0,0,0,0
+9.0,Activated Alumina + Reverse Osmosis / Ion Exchange,"Nervous system damage, Skeletal Fluorosis",1,0,0,1,0,0
+4.21,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.39,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+4.69,Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid",0,1,0,0,0,1
+5.93,Activated Alumina + Activated Carbon Filter + Granular Activated Carbon,"Brain damage, Hormonal imbalance, Skeletal Fluorosis",0,1,0,1,1,0
+6.68,No treatment needed,Healthy,0,0,0,0,0,0
+6.31,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+6.07,Activated Carbon Filter + Ion Exchange / Coagulation,"Brain damage, Skin lesions, Cancer",0,1,1,0,0,0
+9.59,Activated Carbon Filter,Brain damage,0,1,0,0,0,0
+6.98,No treatment needed,Healthy,0,0,0,0,0,0
+9.13,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+4.75,pH adjustment (Add Alkaline),Corrosion issues,0,0,0,0,0,0
+8.14,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+8.78,Activated Carbon Filter + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage",1,1,0,0,0,0
+7.54,Granular Activated Carbon + Ion Exchange / Coagulation,"Hormonal imbalance, Skin lesions, Cancer",0,0,1,0,1,0
+8.01,No treatment needed,Healthy,0,0,0,0,0,0
+8.51,pH adjustment (Add Acid),Skin irritation,0,0,0,0,0,0
+6.12,Activated Alumina + Ion Exchange / Coagulation,"Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,0
+8.22,Activated Alumina + Ion Exchange / Coagulation + UV Sterilization / Chlorination,"Cholera, Typhoid, Skeletal Fluorosis, Skin lesions, Cancer",0,0,1,1,0,1
+8.04,Granular Activated Carbon + Reverse Osmosis / Ion Exchange + UV Sterilization / Chlorination,"Cholera, Typhoid, Hormonal imbalance, Nervous system damage",1,0,0,0,1,1
+5.77,Activated Carbon Filter + Granular Activated Carbon + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Hormonal imbalance",0,1,0,0,1,1
+9.93,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+6.56,No treatment needed,Healthy,0,0,0,0,0,0
+4.29,Ion Exchange / Coagulation,"Skin lesions, Cancer",0,0,1,0,0,0
+5.93,Activated Alumina + Activated Carbon Filter + UV Sterilization / Chlorination,"Brain damage, Cholera, Typhoid, Skeletal Fluorosis",0,1,0,1,0,1
+5.06,Activated Carbon Filter + Granular Activated Carbon + Reverse Osmosis / Ion Exchange,"Brain damage, Hormonal imbalance, Nervous system damage",1,1,0,0,1,0
+5.0,Activated Alumina,Skeletal Fluorosis,0,0,0,1,0,0
+6.86,Activated Carbon Filter + Ion Exchange / Coagulation + Reverse Osmosis / Ion Exchange,"Brain damage, Nervous system damage, Skin lesions, Cancer",1,1,1,0,0,0
+7.22,Consult Specialist / Advanced Filtration,Unknown Contamination Risk,1,0,1,1,0,0
+6.61,UV Sterilization / Chlorination,"Cholera, Typhoid",0,0,0,0,0,1
